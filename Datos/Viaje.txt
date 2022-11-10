@@ -1,3 +1,5 @@
 Texto de ejemplo
 Más texto de ejemplo
 Aún más texto de ejemplo
+Este texto solo está en esta rama, en la otra no.
+Que cosas tiene trabajar con ramas.
